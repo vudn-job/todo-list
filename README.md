@@ -1,2 +1,2 @@
 # todo-list
-Just for practice learning
+Just for fun
